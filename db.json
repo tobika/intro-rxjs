@@ -1,0 +1,7 @@
+{
+  "bikes": [
+    { "id": 1, "name": "Racing bike", "color": "red" },
+    { "id": 2, "name": "Racing bike", "color": "blue" },
+    { "id": 3, "name": "Racing bike", "color": "black" }
+  ]
+}
